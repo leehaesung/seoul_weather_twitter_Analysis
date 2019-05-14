@@ -12,3 +12,4 @@
 또한, 결과에 대해 BI도구인 AWS QuickSight로 시각화해서 확인한다.
 
 ## Jupyter-notebook
+[jupyter!](https://github.com/leehaesung/seoul_weather_twitter_Analysis/raw/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
