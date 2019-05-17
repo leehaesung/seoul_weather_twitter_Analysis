@@ -16,7 +16,7 @@
 ---
 
 ## Jupyter Web Notebook
- * [jupyter-Notebook viewer](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
+ * [Jupyter Web Notebook](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
 
 ---
 
