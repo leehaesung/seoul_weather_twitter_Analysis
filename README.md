@@ -14,10 +14,10 @@
 ---
 
 ## Jupyter-notebook
-[jupyter-Notebook viewer](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
+ * [jupyter-Notebook viewer](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
 
 ---
 
-## Seoul Weather Twitter Architecture
-[]()
+## Architecture
+![SeoulWeatherArchitecture.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/SeoulWeatherArchitecture.png)
 
