@@ -11,9 +11,9 @@
 이번에는 AWS-IoT core & Greegrass 통해 실시간 수집데이타 대해서 AWS Athena로 쿼리하는 것을 확인한다.
 또한, 결과에 대해 BI도구인 AWS QuickSight로 시각화해서 확인한다.
 
-***
+---
 
 ## Jupyter-notebook
 [jupyter-Notebook viewer](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
 
-
+---
