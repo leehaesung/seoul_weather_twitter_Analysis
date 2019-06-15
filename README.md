@@ -8,7 +8,7 @@
 - 미세먼지데이터를 트위터와 라인에 전송합니다.
 - 수집한 미세먼지데이터를 시계열 분석합니다.
 - [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
-- [SlideShare](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
+- [SlideShare @농심엔지니어링](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
 이번에는 AWS-IoT core & Greegrass 통해 실시간 수집데이타 대해서 AWS Athena로 쿼리하는 것을 확인한다.
 또한, 결과에 대해 BI는 AWS QuickSight, Tableau Analytics, Apache Zeppline 시각화해서 확인한다.
