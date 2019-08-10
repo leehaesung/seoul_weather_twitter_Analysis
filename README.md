@@ -26,11 +26,16 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ## Implementations
 * Node-RED Flows
 ![00_Node-RED.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/00_Node-RED.png)
+* Twitter Bot For Seoul Weather
 ![01_Weather_Twitter.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/01_Weather_Twitter.png)
 ![02_Twitter_bot.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/02_Twitter_bot.png)
+* Fine Dust Data Analytics on Grafana
 ![03_DustDATA.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/03_DustDATA.png)
+* AWS CloudWatch on Grafana
 ![04_AWS_CloudWatch.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/04_AWS_CloudWatch.png)
+* Line Bot
 ![05_LineBots.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/05_LineBots.png)
+* Tableu Analytics
 ![06_TableuAnalytics.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/06_TableuAnalytics.png)
 ![07_Analytics.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/07_Analytics.png)
 
