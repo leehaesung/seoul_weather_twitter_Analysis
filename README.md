@@ -1,4 +1,4 @@
-# AWS IoT, AWS Greengrass 등을 활용한 시계열분석
+# Time series analysis using InfluxDB, AWS IoT, and AWS Greengrass
 ### (미세먼지로부터 우리의 건강을 지키자.)
 
 ***
