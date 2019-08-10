@@ -4,9 +4,9 @@
 ***
 
 ## Introduction
-- It is to find the optimal exercise timing with less particulate matter in Seoul (South Korea)
-- This system automatically sends weather and particulate matter data to the Twitter and the [Line messenger](https://en.wikipedia.org/wiki/Line_(software)). (six times per a day).
-- We analyze time series of collecting weather and particulate matter data.
+- It is to find the optimal exercise timing with less particulate matter(PM) in Seoul (South Korea)
+- This system automatically sends weather and [particulate matter(PM)](https://www.epa.gov/pm-pollution) data to the Twitter and the [Line messenger](https://en.wikipedia.org/wiki/Line_(software)). (six times per a day).
+- We analyze time series of collecting weather and [particulate matter(PM)](https://www.epa.gov/pm-pollution) data.
 - Real Demo: [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
 - Keynote: [SlideShare @Nongshim Engineering](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
