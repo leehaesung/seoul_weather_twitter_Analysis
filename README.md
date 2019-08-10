@@ -1,5 +1,5 @@
 # Time series analysis using InfluxDB, AWS IoT, and AWS Greengrass
-### (미세먼지로부터 우리의 건강을 지키자.)
+### (IoT + Weather + Twitter + Machine Learning)
 
 ***
 
