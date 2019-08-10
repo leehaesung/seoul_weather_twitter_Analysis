@@ -4,9 +4,9 @@
 ***
 
 ## Introduction
-- It is to find the optimal exercise timing with less fine dust in Seoul (South Korea)
-- This system automatically sends weather and fine dust data to the Twitter and the [Line messenger](https://en.wikipedia.org/wiki/Line_(software)). (six times per a day).
-- We analyze time series of collecting weather and fine dust data.
+- It is to find the optimal exercise timing with less particulate matter in Seoul (South Korea)
+- This system automatically sends weather and particulate matter data to the Twitter and the [Line messenger](https://en.wikipedia.org/wiki/Line_(software)). (six times per a day).
+- We analyze time series of collecting weather and particulate matter data.
 - Real Demo: [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
 - Keynote: [SlideShare @Nongshim Engineering](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
@@ -29,7 +29,7 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 * Twitter Bot For Seoul Weather([@aniotmaker](https://twitter.com/aniotmaker))
 ![01_Weather_Twitter.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/01_Weather_Twitter.png)
 ![02_Twitter_bot.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/02_Twitter_bot.png)
-* Fine Dust Data Analytics on Grafana
+* particulate matter Data Analytics on Grafana
 ![03_DustDATA.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/03_DustDATA.png)
 * AWS CloudWatch on Grafana
 ![04_AWS_CloudWatch.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/04_AWS_CloudWatch.png)
