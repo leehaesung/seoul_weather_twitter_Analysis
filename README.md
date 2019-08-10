@@ -7,8 +7,8 @@
 - It is to find the optimal exercise timing with less fine dust.
 - This system automatically sends weather and fine dust data to tweeters and line messengers.
 - We analyze time series of collected weather and fine dust data.
-- [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
-- [SlideShare @Nongshim Engineering](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
+- Real Demo: [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
+- Keynote: [SlideShare @Nongshim Engineering](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
 This time, we will query AWS Athena for real-time collected data through AWS-IoT core & Greegrass.
 In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and Apache Zeppline visualizations.
