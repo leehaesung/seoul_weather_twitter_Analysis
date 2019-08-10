@@ -1,5 +1,5 @@
-# Time series analysis using InfluxDB, AWS IoT, and AWS Greengrass
-### (IoT + Weather + Twitter + Machine Learning + InfluxDB(TSDB)
+# Time Series Analysis using InfluxDB, AWS IoT, and AWS Greengrass
+### (IoT + Weather + Twitter + Machine Learning + InfluxDB(TSDB + Grafana)
 
 ***
 
@@ -30,7 +30,7 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ---
 
 ## References
-![Node-RED nodes to save and query data from an influxdb time series database](https://flows.nodered.org/node/node-red-contrib-influxdb)
+[Node-RED nodes to save and query data from an influxdb time series database](https://flows.nodered.org/node/node-red-contrib-influxdb)
 
-![Grafana Lab](https://grafana.com/)
+[Grafana Lab](https://grafana.com/)
 
