@@ -43,7 +43,7 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 
 ## References
 
-* [InfluxDB Developers](https://www.influxdata.com/)
+* [Getting started with InfluxDB](https://docs.influxdata.com/influxdb/v1.7/introduction/getting-started)
 
 * [Node-RED nodes to save and query data from an influxdb time series database](https://flows.nodered.org/node/node-red-contrib-influxdb)
 
@@ -52,5 +52,7 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 * [My Keynote(SlideShare)](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
 * [OpenWeather API](https://openweathermap.org/)
+
+* [Get started with Tableau](https://www.tableau.com/learn/get-started)
 
 
