@@ -27,3 +27,10 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 
 ![IoT_Sensors_with_JSON_Format](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/IoT_Sensors_with_JSON_Format.png)
 
+---
+
+## References
+![Node-RED nodes to save and query data from an influxdb time series database](https://flows.nodered.org/node/node-red-contrib-influxdb)
+
+![Grafana Lab](https://grafana.com/)
+
