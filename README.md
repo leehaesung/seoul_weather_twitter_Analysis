@@ -15,11 +15,6 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 
 ---
 
-## Jupyter Web Notebook
- * [Jupyter Web Notebook](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
-
----
-
 ## Architecture
 ![SeoulWeatherArchitecture.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/SeoulWeatherArchitecture.png)
 
@@ -34,6 +29,11 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ![05_LineBots.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/05_LineBots.png)
 ![06_TableuAnalytics.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/06_TableuAnalytics.png)
 ![07_Analytics.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/07_Analytics.png)
+
+---
+
+## Jupyter Web Notebook
+ * [Jupyter Web Notebook](https://nbviewer.jupyter.org/github/leehaesung/seoul_weather_twitter_Analysis/blob/master/01_files/SeoulWeather_pm2p5c_csv.ipynb)
 
 ---
 
