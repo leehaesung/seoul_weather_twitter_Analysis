@@ -63,3 +63,4 @@ for AWS IoT Core](https://d1.awsstatic.com/whitepapers/Designing_MQTT_Topics_for
 * [AWS 기반 지속 가능한 데이터 분석 플랫폼 구축하기 - 소성운, 지그재그 :: AWS Summit Seoul 2019](https://www.slideshare.net/awskorea/aws-aws-summit-seoul-2019-141290115)
 * [AWS 기반 지속 가능한 데이터 분석하기](https://github.com/awskrug/datascience-group/tree/master/workshop-sustainable_data_analysis)
 * [Spark Streaming: IoT with Amazon Kinesis and Visualizing with Qubole Notebooks](https://www.qubole.com/blog/spark-streaming-iot-amazon-kinesis-visualizing-qubole-notebooks/)
+* [궁금한 이야기 Y - 그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM/edit?usp=sharing)
