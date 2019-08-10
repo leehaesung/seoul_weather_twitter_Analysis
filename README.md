@@ -43,15 +43,17 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ## References
 
 * [Getting started with InfluxDB](https://docs.influxdata.com/influxdb/v1.7/introduction/getting-started)
-
 * [Node-RED nodes to save and query data from an influxdb time series database](https://flows.nodered.org/node/node-red-contrib-influxdb)
-
 * [Grafana Lab](https://grafana.com/)
-
 * [My Keynote(SlideShare)](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
-
 * [OpenWeather API](https://openweathermap.org/)
-
 * [Get started with Tableau](https://www.tableau.com/learn/get-started)
-
-
+* [What Is AWS IoT Greengrass?](https://docs.aws.amazon.com/greengrass/latest/developerguide/what-is-gg.html)
+* [Designing MQTT Topics
+for AWS IoT Core](https://d1.awsstatic.com/whitepapers/Designing_MQTT_Topics_for_AWS_IoT_Core.pdf)
+* [Using Node-RED Library to Wire Telemetry Data from IoT Devices to the Cloud](https://labs.eleks.com/2019/01/node-red-library-iot-cloud.html)
+* [Using AWS IoT Analytics to Prepare Data for QuickSight Time-Series Visualizations](https://aws.amazon.com/blogs/iot/using-aws-iot-analytics-to-prepare-data-for-quicksight-time-series-visualizations/)
+* [AWS Documentation](https://docs.aws.amazon.com/index.html)
+* [AWS 기반 지속 가능한 데이터 분석 플랫폼 구축하기 - 소성운, 지그재그 :: AWS Summit Seoul 2019](https://www.slideshare.net/awskorea/aws-aws-summit-seoul-2019-141290115)
+* [AWS 기반 지속 가능한 데이터 분석하기](https://github.com/awskrug/datascience-group/tree/master/workshop-sustainable_data_analysis)
+* [Spark Streaming: IoT with Amazon Kinesis and Visualizing with Qubole Notebooks](https://www.qubole.com/blog/spark-streaming-iot-amazon-kinesis-visualizing-qubole-notebooks/)
