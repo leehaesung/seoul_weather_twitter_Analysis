@@ -6,7 +6,7 @@
 ## Introduction
 - It is to find the optimal exercise timing with less fine dust in Seoul (South Korea)
 - This system automatically sends weather and fine dust data to tweeters and line messengers.
-- We analyze time series of collected weather and fine dust data.
+- We analyze time series of collecting weather and fine dust data.
 - Real Demo: [https://twitter.com/aniotmaker](https://twitter.com/aniotmaker)
 - Keynote: [SlideShare @Nongshim Engineering](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
 
