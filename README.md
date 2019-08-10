@@ -26,6 +26,7 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ---
 
 ## Implementations
+![00_Node-RED.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/00_Node-RED.png)
 ![01_Weather_Twitter.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/01_Weather_Twitter.png)
 ![02_Twitter_bot.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/02_Twitter_bot.png)
 ![03_DustDATA.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/03_DustDATA.png)
