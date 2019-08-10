@@ -1,5 +1,5 @@
 # Time Series Analysis using InfluxDB, AWS IoT, and AWS Greengrass
-### (IoT + Weather + Twitter + Machine Learning + InfluxDB(TSDB + Grafana)
+### (IoT + Weather + Twitter + Machine Learning + InfluxDB + Grafana)
 
 ***
 
