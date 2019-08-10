@@ -45,3 +45,4 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 
 [Grafana Lab](https://grafana.com/)
 
+[My Keynote(SlideShare)](https://www.slideshare.net/StephenHaesungLee/aws-iot-aws-greengrass-for-time-series-analysis-english-ver)
