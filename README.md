@@ -24,6 +24,8 @@ In addition, BI verifies the results with AWS QuickSight, Tableau Analytics, and
 ---
 
 ## Implementations
+* Node-RED Nodes
+![Nodes](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/Node-RED_Nodes.png)
 * Node-RED Flows
 ![00_Node-RED.png](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/00_Node-RED.png)
 * Twitter Bot For Seoul Weather([@aniotmaker](https://twitter.com/aniotmaker))
