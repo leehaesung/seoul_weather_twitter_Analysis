@@ -62,6 +62,7 @@ for AWS IoT Core](https://d1.awsstatic.com/whitepapers/Designing_MQTT_Topics_for
 * [AWS 기반 지속 가능한 데이터 분석하기](https://github.com/awskrug/datascience-group/tree/master/workshop-sustainable_data_analysis)
 * [Spark Streaming: IoT with Amazon Kinesis and Visualizing with Qubole Notebooks](https://www.qubole.com/blog/spark-streaming-iot-amazon-kinesis-visualizing-qubole-notebooks/)
 * [궁금한 이야기 Y - 그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM/edit?usp=sharing)
+* [Tutorial: Using the Sense Tecnic InfluxDB platform with FRED (Cloud Node-RED)](http://developers.sensetecnic.com/article/tutorial-using-the-sense-tecnic-influxdb-platform-with-fred/#create-database)
 
 ---
 ![QR Code](https://raw.githubusercontent.com/leehaesung/seoul_weather_twitter_Analysis/master/01_files/QRcode_aniotmaker.png)
